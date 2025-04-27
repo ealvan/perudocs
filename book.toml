@@ -1,0 +1,6 @@
+[book]
+authors = ["you"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Peru Tourism Docs"
