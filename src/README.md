@@ -15,7 +15,7 @@ Along the way, we’ll stop at three remarkable spots:
 
 ## Trip Schedule & Timings
 The image represent the times between places:
-![Alt Text](../media/images/TimesScheduled.PNG)
+![Time scheduled](../media/images/TimesScheduled.PNG)
 
 And remember that these times are aproximately.
 
