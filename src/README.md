@@ -27,11 +27,9 @@ And remember that these times are aproximately.
 Note: Please be mindful of our schedule—spending extra time at one stop may mean less time at others.
 
 
-
 <!-- I’m excited to show you the stunning landscapes and share stories about each place. Let’s get started! -->
 
 <!-- ---
 
 **Source:**  
 Markdown formatted according to the [CommonMark specification](https://spec.commonmark.org/)   -->
-

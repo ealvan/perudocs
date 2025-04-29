@@ -1,0 +1,7 @@
+  name = "perodocs-book"
+  main = "book/index.html"
+  compatibility_date = "2025-01-01"
+  [assets]
+  directory = "./book"
+  binding = "ASSETS"
+
