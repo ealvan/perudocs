@@ -26,6 +26,10 @@ And remember that these times are aproximately.
 
 Note: Please be mindful of our schedule—spending extra time at one stop may mean less time at others.
 
+### Notes
+ 
+There are bathrooms available at all our stops—Patapampa, Patahuasi, and Las Lagunillas Lake—but keep in mind that the time between each stop is over 40 minutes, so plan accordingly.
+
 
 <!-- I’m excited to show you the stunning landscapes and share stories about each place. Let’s get started! -->
 

@@ -15,6 +15,7 @@ I will fill this website with a lot of information about the Arequipa department
 I will try to be impartial about the information, and if there is anything uncertain, I will make it clear by saying something like, "but there is no evidence I found."
 
 # The Content Structure
+
 The content structure will change, and I will more chapters and can be in some weeks different as it is now
 Right now I dont know how to organize the content.
 
