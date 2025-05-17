@@ -21,9 +21,10 @@ Right now I dont know how to organize the content.
 
 # Comments from you
 I will love to hear from your opinions here:
-1. Your opinions
-2. Ways to do better this website.
-3. Or just say whatever you like.
 
-All I want is hear from you your opinion 😊.
+1. Your opinions.
+2. Or just say whatever you like.
+3. if you had a question about Chivay, i will asnwer you.
+
+All I want is hear from you whatever you want to share or say to me 😊.
 My email is: mattdivs1@gmail.com

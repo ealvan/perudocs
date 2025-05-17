@@ -22,10 +22,9 @@ Here is a bigger image:
 
 ---
 
-Unfortunately I did this website yesterday, in my free time.
-So I didn't fill up with many information.
+Unfortunately I did this website 5 days before, in my free time.
+So I didn't fill up with many information. With the time i will put more info.
 
-I will fill this website with information about Chivay, Puno and other beautiful places here in Peru.
 I hope you find interesting or helpful this website.
 
 It's completely for free.
