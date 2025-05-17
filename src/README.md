@@ -31,6 +31,32 @@ Note: Please be mindful of our schedule—spending extra time at one stop may me
 There are bathrooms available at all our stops—Patapampa, Patahuasi, and Las Lagunillas Lake—but keep in mind that the time between each stop is over 40 minutes, so plan accordingly.
 
 
+
+<form
+  action="https://formspree.io/f/manovvbk"
+  method="POST"
+  style="max-width: 500px; margin: 1em auto; padding: 20px; border: 1px solid #ddd;"
+>
+  <label style="display: block; margin-bottom: 10px;">
+    Your name:
+    <input type="text" name="name" style="width: 100%; padding: 8px;">
+  </label>
+
+  <label style="display: block; margin-bottom: 10px;">
+    Your email:
+    <input type="email" name="_replyto" style="width: 100%; padding: 8px;">
+  </label>
+
+  <label style="display: block; margin-bottom: 10px;">
+    Comment:
+    <textarea name="message" style="width: 100%; height: 150px; padding: 8px;"></textarea>
+  </label>
+
+  <button type="submit" style="background: #4CAF50; color: white; padding: 12px; border: none; border-radius: 4px;">
+    Send Comment
+  </button>
+</form>
+
 <!-- I’m excited to show you the stunning landscapes and share stories about each place. Let’s get started! -->
 
 <!-- ---
