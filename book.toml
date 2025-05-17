@@ -4,3 +4,7 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Peru Tourism Docs"
+
+[output.html]
+mathjax-support.enabled = true
+allow-unsafe-html = true
