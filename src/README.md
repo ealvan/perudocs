@@ -35,38 +35,18 @@ There are bathrooms available at all our stops—Patapampa, Patahuasi, and Las L
 <form
   action="https://formspree.io/f/manovvbk"
   method="POST"
-  style="max-width: 500px; margin: 1em auto; padding: 20px; border: 1px solid #ddd;"
 >
-   <input type="hidden" name="_next" value="/">
-
-     <!-- Add these hidden fields -->
-  <input type="hidden" name="_language" value="en">
-  <input type="hidden" name="_format" value="json">
-  <input type="hidden" name="_subject" value="New Comment from mdBook">
-  
-  <!-- Add honeypot spam filter -->
-  <input type="text" name="_gotcha" style="display:none">
-  
-  <label style="display: block; margin-bottom: 10px;">
-    Your name:
-    <input type="text" name="name" style="width: 100%; padding: 8px;">
-  </label>
-
-  <label style="display: block; margin-bottom: 10px;">
+  <label>
     Your email:
-    <input type="email" name="_replyto" style="width: 100%; padding: 8px;">
+    <input type="email" name="email">
   </label>
-
-  <label style="display: block; margin-bottom: 10px;">
-    Comment:
-    <textarea name="message" style="width: 100%; height: 150px; padding: 8px;"></textarea>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
   </label>
-
-  <button type="submit" style="background: #4CAF50; color: white; padding: 12px; border: none; border-radius: 4px;">
-    Send Comment
-  </button>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
 </form>
-
 <!-- I’m excited to show you the stunning landscapes and share stories about each place. Let’s get started! -->
 
 <!-- ---
