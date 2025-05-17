@@ -37,6 +37,16 @@ There are bathrooms available at all our stops—Patapampa, Patahuasi, and Las L
   method="POST"
   style="max-width: 500px; margin: 1em auto; padding: 20px; border: 1px solid #ddd;"
 >
+   <input type="hidden" name="_next" value="/">
+
+     <!-- Add these hidden fields -->
+  <input type="hidden" name="_language" value="en">
+  <input type="hidden" name="_format" value="json">
+  <input type="hidden" name="_subject" value="New Comment from mdBook">
+  
+  <!-- Add honeypot spam filter -->
+  <input type="text" name="_gotcha" style="display:none">
+  
   <label style="display: block; margin-bottom: 10px;">
     Your name:
     <input type="text" name="name" style="width: 100%; padding: 8px;">
